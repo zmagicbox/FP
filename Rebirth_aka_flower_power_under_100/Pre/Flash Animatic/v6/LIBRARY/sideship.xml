@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="sideship" itemID="532d7111-0000068c" lastModified="1395965629">
+  <timeline>
+    <DOMTimeline name="sideship">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-518.65" ty="-199.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0099FF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!11094 3998[11144 1633 11119 1620!11119 1620|9619 3920!9619 3920|11039 6360!11039 6360[11069 5180 11094 3998"/>
+                    <Edge cubics="!11119 1620(;11119,1620 9619,3920 9619,3920p11119 1620 9619 3920);"/>
+                    <Edge cubics="!9619 3920(;9619,3920 11039,6360 11039,6360p9619 3920 11039 6360);"/>
+                    <Edge cubics="!11039 6360(;11039,6360 11159,1640 11119,1620q11039 6360Q11069 5180q11094 3998Q11144 1633q11119 1620);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

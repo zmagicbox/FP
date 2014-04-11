@@ -1,0 +1,206 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Stuff/drawings" itemID="531d8668-000001eb" lastModified="1394524870">
+  <timeline>
+    <DOMTimeline name="drawings" currentFrame="11">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/1.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/2.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/3.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/4.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/5.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="5" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/6.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/7.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/8.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="8" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/10.png">
+                  <matrix>
+                    <Matrix tx="-485" ty="-282.55"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="9" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/11.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="10" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/12.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="11" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/13.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/scene12.JPG">
+                  <matrix>
+                    <Matrix tx="-382.5" ty="-265.05"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/16.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/17.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="Stuff/18.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="15" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/19.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="16" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/20.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="17" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/21.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/22.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/23.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="20" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Stuff/24.png">
+                  <matrix>
+                    <Matrix tx="-275" ty="-200"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

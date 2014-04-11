@@ -1,0 +1,467 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Earth" itemID="5334a3e9-000006c9" lastModified="1395964033">
+  <timeline>
+    <DOMTimeline name="Earth" currentFrame="4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="earth0000.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="7" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0001.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0002.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="21" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0003.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="27" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0004.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="34" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0005.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="41" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0006.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="48" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0007.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0008.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="62" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0009.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="69" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0010.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="76" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0011.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="83" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0012.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="90" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0013.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="97" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0014.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0015.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="111" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0016.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="118" duration="7" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0017.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="125" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0018.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="131" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0019.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="137" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0020.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="143" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0021.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="149" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0022.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="155" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0023.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="161" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0024.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="167" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0025.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="173" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0026.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="179" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0027.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="185" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0028.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="191" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0029.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="197" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0030.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="203" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0031.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="209" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0032.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="215" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0033.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="221" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0034.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="227" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0035.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="233" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0036.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="239" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0037.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="245" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0038.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="251" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0039.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="257" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0040.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="263" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0041.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="269" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0042.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="275" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0043.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="281" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0044.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="287" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0045.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="293" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0046.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="299" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0047.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="305" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0048.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="311" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0049.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="317" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0050.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="323" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0051.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="329" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0052.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="335" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0053.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="341" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0054.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="347" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0055.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="353" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0056.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="359" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0057.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="365" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0058.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="371" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0059.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="377" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0060.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="383" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0061.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="389" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0062.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="395" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0063.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="401" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0064.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="407" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0065.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="413" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0066.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="419" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0067.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="425" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0068.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="431" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0069.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="437" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0070.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="443" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0071.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="449" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0072.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="455" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0073.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="461" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0074.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="467" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0075.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="473" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0076.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="479" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0077.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="485" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0078.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="491" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0079.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="497" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0080.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="503" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0081.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="509" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0082.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="515" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0083.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="521" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0084.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="527" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0085.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="533" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0086.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="539" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0087.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="545" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0088.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="551" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0089.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="557" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance libraryItemName="earth0090.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

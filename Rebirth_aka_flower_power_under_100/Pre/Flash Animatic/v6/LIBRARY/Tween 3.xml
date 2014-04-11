@@ -1,0 +1,26 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 3" itemID="532d3af0-000001d9" symbolType="graphic" lastModified="1395473136">
+  <timeline>
+    <DOMTimeline name="Tween 3">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#0099FF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!862 -863[1220 -505 1220 0!1220 0[1220 505 862 862!862 862[505 1220 0 1220!0 1220[-505 1220 -863 862!-863 862[-1220 505 -1220 0!-1220 0[-1220 -505 -863 -863!-863 -863[-505 -1220 0 -1220!0 -1220[505 -1220 862 -863"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 5" itemID="532d6eb0-0000067c" symbolType="graphic" lastModified="1395486384">
+  <timeline>
+    <DOMTimeline name="Tween 5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance selected="true" libraryItemName="Dive0150.png">
+                  <matrix>
+                    <Matrix a="0.69769287109375" d="0.69769287109375" tx="-279.05" ty="-209.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="399.95" y="299.9"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

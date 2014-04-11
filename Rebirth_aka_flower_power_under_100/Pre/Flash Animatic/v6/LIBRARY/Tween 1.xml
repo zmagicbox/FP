@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="Tween 1" itemID="532d3a9d-000001d5" symbolType="graphic" lastModified="1395735298">
+  <timeline>
+    <DOMTimeline name="Tween 1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="337.95" height="111.75" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-168.95" ty="-55.85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>BCC</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="100" bitmapSize="2000" face="ErasITC-Demi" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
