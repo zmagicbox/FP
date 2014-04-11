@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="640" height="360" frameRate="30" currentTimeline="11" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="62.4108334222142" nextSceneIdentifier="25" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="640" height="360" frameRate="30" currentTimeline="2" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="62.4108334222142" nextSceneIdentifier="25" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
      <folders>
           <DOMFolderItem name="Stuff" itemID="5327ff64-000005eb"/>
           <DOMFolderItem name="untitled folder 1" itemID="533610a6-00000850"/>
@@ -979,6 +979,7 @@
           <DOMBitmapItem name="scene1_0344.jpg" itemID="5347b6d2-00000cc2" sourceExternalFilepath="./LIBRARY/scene1_0344.jpg" sourceLastImported="1397208503" externalFileSize="59038" quality="50" href="scene1_0344.jpg" bitmapDataHRef="M 1717 1397208786.dat" frameRight="19200" frameBottom="10800" isJPEG="true"/>
           <DOMBitmapItem name="Stuff/scene1_0344.png" itemID="5324c730-000007f4" sourceExternalFilepath="./LIBRARY/Stuff/scene1_0344.png" sourceLastImported="1394943154" sourcePlatform="macintosh" externalFileCRC32="886886757" externalFileSize="5231" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Stuff/scene1_0344.png" bitmapDataHRef="M 393 1394919216.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="scene1_0345.jpg" itemID="5347b6d3-00000cc6" sourceExternalFilepath="./LIBRARY/scene1_0345.jpg" sourceLastImported="1397208504" externalFileSize="59534" quality="50" href="scene1_0345.jpg" bitmapDataHRef="M 1718 1397208787.dat" frameRight="19200" frameBottom="10800" isJPEG="true"/>
+          <DOMBitmapItem name="scene1_0345.jpg copy" itemID="5347cd1d-000008db" sourceExternalFilepath="C:/render/scene1/jpg for flash/JPEG/scene1_0345.jpg" sourceLastImported="1397208504" quality="50" href="scene1_0345.jpg copy" bitmapDataHRef="M 1749 1397214490.dat" frameRight="19200" frameBottom="10800" isJPEG="true"/>
           <DOMBitmapItem name="Stuff/scene1_0345.png" itemID="5324c730-000007f8" sourceExternalFilepath="./LIBRARY/Stuff/scene1_0345.png" sourceLastImported="1394943158" sourcePlatform="macintosh" externalFileCRC32="584881106" externalFileSize="5096" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Stuff/scene1_0345.png" bitmapDataHRef="M 394 1394919216.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
           <DOMBitmapItem name="scene1_0346.jpg" itemID="5347b6d3-00000cca" sourceExternalFilepath="./LIBRARY/scene1_0346.jpg" sourceLastImported="1397208505" externalFileSize="52774" quality="50" href="scene1_0346.jpg" bitmapDataHRef="M 1719 1397208787.dat" frameRight="19200" frameBottom="10800" isJPEG="true"/>
           <DOMBitmapItem name="Stuff/scene1_0346.png" itemID="5324c730-000007fc" sourceExternalFilepath="./LIBRARY/Stuff/scene1_0346.png" sourceLastImported="1394943160" sourcePlatform="macintosh" externalFileCRC32="2638572822" externalFileSize="4983" useImportedJPEGData="false" compressionType="lossless" originalCompressionType="lossless" quality="50" href="Stuff/scene1_0346.png" bitmapDataHRef="M 395 1394919216.dat" frameLeft="-115200" frameTop="-115200" frameRight="-115200" frameBottom="-115200"/>
@@ -1899,13 +1900,13 @@
           </DOMTimeline>
           <DOMTimeline name="Scene 1" currentFrame="220">
                <layers>
-                    <DOMLayer name="Layer 1" color="#4FFF4F">
+                    <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" duration="616" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Stuff/drawings" symbolType="graphic" loop="single frame">
+                                        <DOMSymbolInstance libraryItemName="Stuff/drawings" selected="true" symbolType="graphic" loop="single frame">
                                              <matrix>
-                                                  <Matrix a="0.19793701171875" d="0.19793701171875" tx="64.65" ty="337.55"/>
+                                                  <Matrix a="0.19793701171875" d="0.19793701171875" tx="82.65" ty="293.55"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="60.65" y="28.55"/>
@@ -1915,7 +1916,20 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 4" color="#FF4FFF" locked="true" current="true" isSelected="true">
+                    <DOMLayer name="Layer 11" color="#FF800A">
+                         <frames>
+                              <DOMFrame index="0" duration="616" keyMode="9728">
+                                   <elements>
+                                        <DOMBitmapInstance selected="true" libraryItemName="scene1_0345.jpg copy">
+                                             <matrix>
+                                                  <Matrix a="0.666671752929688" d="0.666671752929688"/>
+                                             </matrix>
+                                        </DOMBitmapInstance>
+                                   </elements>
+                              </DOMFrame>
+                         </frames>
+                    </DOMLayer>
+                    <DOMLayer name="Layer 4" color="#FF4FFF" locked="true">
                          <frames>
                               <DOMFrame index="0" duration="90" keyMode="9728">
                                    <elements/>
@@ -1977,13 +1991,13 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+                    <DOMLayer name="Layer 1" color="#4FFF4F">
                          <frames>
                               <DOMFrame index="0" duration="453" keyMode="9728">
                                    <elements>
                                         <DOMSymbolInstance libraryItemName="Stuff/drawings" symbolType="graphic" loop="single frame">
                                              <matrix>
-                                                  <Matrix a="0.7899169921875" d="0.7899169921875" tx="232.15" ty="179.5"/>
+                                                  <Matrix a="0.7899169921875" d="0.7899169921875" tx="274.15" ty="158"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="60.5" y="28.5"/>
