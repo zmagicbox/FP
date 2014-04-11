@@ -1915,23 +1915,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 6" color="#808080" locked="true" current="true" isSelected="true">
-                         <frames>
-                              <DOMFrame index="0" duration="616" keyMode="9728">
-                                   <elements>
-                                        <DOMSymbolInstance libraryItemName="moon" symbolType="graphic" loop="play once">
-                                             <matrix>
-                                                  <Matrix a="0.033721923828125" d="0.0327606201171875" tx="421.15" ty="133.2"/>
-                                             </matrix>
-                                             <transformationPoint>
-                                                  <Point/>
-                                             </transformationPoint>
-                                        </DOMSymbolInstance>
-                                   </elements>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-                    <DOMLayer name="Layer 4" color="#FF4FFF" locked="true">
+                    <DOMLayer name="Layer 4" color="#FF4FFF" locked="true" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" duration="90" keyMode="9728">
                                    <elements/>
