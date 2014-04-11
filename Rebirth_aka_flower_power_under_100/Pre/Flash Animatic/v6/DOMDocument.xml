@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="640" height="360" frameRate="30" currentTimeline="4" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="62.4108334222142" nextSceneIdentifier="25" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="640" height="360" frameRate="30" currentTimeline="11" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="62.4108334222142" nextSceneIdentifier="25" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
      <folders>
           <DOMFolderItem name="Stuff" itemID="5327ff64-000005eb"/>
           <DOMFolderItem name="untitled folder 1" itemID="533610a6-00000850"/>
@@ -2164,7 +2164,7 @@
           <DOMTimeline name="Scene 4 a" currentFrame="74">
                <layers>
                     <DOMLayer name="Ships" color="#4FFF4F" autoNamed="false" layerType="folder"/>
-                    <DOMLayer name="Layer 8 copy 6" color="#FF4F4F" parentLayerIndex="0" autoNamed="false">
+                    <DOMLayer name="Layer 8 copy 6" color="#FF4F4F" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" duration="74" tweenType="motion" motionTweenSnap="true" keyMode="22017">
                                    <elements>
@@ -2472,7 +2472,7 @@
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 8" color="#FF4F4F" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+                    <DOMLayer name="Layer 8" color="#FF4F4F" parentLayerIndex="0" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" duration="74" tweenType="motion" motionTweenSnap="true" keyMode="22017">
                                    <elements>
@@ -3855,27 +3855,14 @@
           </DOMTimeline>
           <DOMTimeline name="Scene 9">
                <layers>
-                    <DOMLayer name="Layer 3" color="#FF800A" current="true" isSelected="true">
+                    <DOMLayer name="Layer 3" color="#FF800A">
                          <frames>
                               <DOMFrame index="0" duration="122" keyMode="9728">
                                    <elements/>
                               </DOMFrame>
                          </frames>
                     </DOMLayer>
-                    <DOMLayer name="Layer 2" color="#9933CC" locked="true">
-                         <frames>
-                              <DOMFrame index="0" duration="122" keyMode="9728">
-                                   <elements>
-                                        <DOMBitmapInstance libraryItemName="seedzoom.png">
-                                             <matrix>
-                                                  <Matrix tx="40.05" ty="36.35"/>
-                                             </matrix>
-                                        </DOMBitmapInstance>
-                                   </elements>
-                              </DOMFrame>
-                         </frames>
-                    </DOMLayer>
-                    <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+                    <DOMLayer name="Layer 1" color="#4FFF4F" locked="true" current="true" isSelected="true">
                          <frames>
                               <DOMFrame index="0" duration="122" keyMode="9728">
                                    <elements>
