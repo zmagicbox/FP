@@ -1,4 +1,4 @@
-<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="640" height="360" frameRate="30" currentTimeline="3" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="62.4108334222142" nextSceneIdentifier="25" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
+<DOMDocument xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" width="640" height="360" frameRate="30" currentTimeline="7" xflVersion="2.2" creatorInfo="Adobe Flash Professional CS6" platform="Windows" versionInfo="Saved by Adobe Flash Windows 12.0 build 481" majorVersion="12" buildNumber="481" objectsSnapTo="false" viewAngle3D="62.4108334222142" nextSceneIdentifier="25" playOptionsPlayLoop="false" playOptionsPlayPages="false" playOptionsPlayFrameActions="false" autoSaveEnabled="true" autoSaveHasPrompted="true">
      <folders>
           <DOMFolderItem name="Stuff" itemID="5327ff64-000005eb"/>
           <DOMFolderItem name="untitled folder 1" itemID="533610a6-00000850"/>
@@ -1646,6 +1646,7 @@
           <DOMBitmapItem name="Stuff/scene3_0059.png" itemID="5324dcee-00001c90" sourceExternalFilepath="./LIBRARY/Stuff/scene3_0059.png" sourceLastImported="1394924052" sourcePlatform="macintosh" externalFileCRC32="482116570" externalFileSize="25558" originalCompressionType="lossless" quality="50" href="Stuff/scene3_0059.png" bitmapDataHRef="M 1598 1394924782.dat" frameRight="4000" frameBottom="2240"/>
           <DOMBitmapItem name="Stuff/scene3_0060.png" itemID="5324dcee-00001c94" sourceExternalFilepath="./LIBRARY/Stuff/scene3_0060.png" sourceLastImported="1394924052" sourcePlatform="macintosh" externalFileCRC32="1117274349" externalFileSize="25578" originalCompressionType="lossless" quality="50" href="Stuff/scene3_0060.png" bitmapDataHRef="M 1599 1394924782.dat" frameRight="4000" frameBottom="2240"/>
           <DOMBitmapItem name="Scene5.png" itemID="53361551-000007d3" sourceExternalFilepath="./LIBRARY/Scene5.png" sourceLastImported="1396053262" sourcePlatform="macintosh" externalFileCRC32="4107045010" externalFileSize="379725" originalCompressionType="lossless" quality="50" href="Scene5.png" bitmapDataHRef="M 1365 1396053329.dat" frameRight="12800" frameBottom="7200"/>
+          <DOMBitmapItem name="scene5_0000.jpg" itemID="5347d29d-000008e5" sourceExternalFilepath="./LIBRARY/scene5_0000.jpg" sourceLastImported="1397215695" externalFileSize="27031" quality="50" href="scene5_0000.jpg" bitmapDataHRef="M 1751 1397215868.dat" frameRight="6400" frameBottom="3600" isJPEG="true"/>
           <DOMBitmapItem name="Scene7.png" itemID="533615e0-00000828" sourceExternalFilepath="./LIBRARY/Scene7.png" sourceLastImported="1396053286" sourcePlatform="macintosh" externalFileCRC32="2738725677" externalFileSize="524806" originalCompressionType="lossless" quality="50" href="Scene7.png" bitmapDataHRef="M 1366 1396053472.dat" frameRight="15180" frameBottom="8500"/>
           <DOMBitmapItem name="Scene8.png" itemID="53361621-00000847" sourceExternalFilepath="./LIBRARY/Scene8.png" sourceLastImported="1396053276" sourcePlatform="macintosh" externalFileCRC32="957349008" externalFileSize="490101" originalCompressionType="lossless" quality="50" href="Scene8.png" bitmapDataHRef="M 1367 1396053537.dat" frameRight="15220" frameBottom="8520"/>
           <DOMBitmapItem name="seedzoom.png" itemID="5327ffc7-0000064f" sourceExternalFilepath="./LIBRARY/seedzoom.png" sourceLastImported="1395125850" externalFileCRC32="1355316237" externalFileSize="164155" originalCompressionType="lossless" quality="50" href="seedzoom.png" bitmapDataHRef="M 1045 1395130311.dat" frameRight="9600" frameBottom="6400"/>
@@ -3470,15 +3471,15 @@
                     </DOMLayer>
                </layers>
           </DOMTimeline>
-          <DOMTimeline name="Scene 5" currentFrame="63">
+          <DOMTimeline name="Scene 5">
                <layers>
                     <DOMLayer name="Layer 1 copy" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
                          <frames>
                               <DOMFrame index="0" duration="153" keyMode="9728">
                                    <elements>
-                                        <DOMSymbolInstance libraryItemName="Stuff/drawings" selected="true" symbolType="graphic" firstFrame="4" loop="single frame">
+                                        <DOMSymbolInstance libraryItemName="Stuff/drawings" symbolType="graphic" firstFrame="4" loop="single frame">
                                              <matrix>
-                                                  <Matrix a="0.25823974609375" d="0.25823974609375" tx="417.8" ty="323.75"/>
+                                                  <Matrix a="0.25823974609375" d="0.25823974609375" tx="505.8" ty="289.75"/>
                                              </matrix>
                                              <transformationPoint>
                                                   <Point x="60.4" y="28.65"/>
@@ -3492,13 +3493,10 @@
                          <frames>
                               <DOMFrame index="0" duration="153" keyMode="9728">
                                    <elements>
-                                        <DOMBitmapInstance libraryItemName="Scene5.png">
+                                        <DOMBitmapInstance libraryItemName="scene5_0000.jpg">
                                              <matrix>
-                                                  <Matrix a="0.817169189453125" d="0.81378173828125" tx="12.5" ty="50.6"/>
+                                                  <Matrix a="2" d="2"/>
                                              </matrix>
-                                             <transformationPoint>
-                                                  <Point x="320" y="180"/>
-                                             </transformationPoint>
                                         </DOMBitmapInstance>
                                    </elements>
                               </DOMFrame>
